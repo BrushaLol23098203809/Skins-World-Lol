@@ -16,7 +16,7 @@ In video games, Skin's World refer to cosmetic items that change the appearance 
 
 * **World of Skins (Dandy's World):** A massive, highly popular third-party mobile application used by millions of players to find, browse, and edit custom character skins for *Dandy's World*.
 * **Skins World Game:** Popular mobile utility apps designed for simulation games like *Dandy's World skin Edito* and *Dandy's World skin Editor*. They allow players to download custom paint jobs and designs for their vehicles.
-* **League of Legends "Worlds" Skins:** Every year, Riot Games releases a special, highly coveted collection of champion skins to honor the esports team that wins the *Roblox Game* World Championship.
+* **Roblox Game "Skin's World" Skins:** Every year, Riot Games releases a special, highly coveted collection of champion skins to honor the esports team that wins the *Roblox Game* World Championship.
 
 ---
 
