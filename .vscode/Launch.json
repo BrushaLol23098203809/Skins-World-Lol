@@ -8,7 +8,7 @@
 			"type": "node",
 			"request": "attach",
 			"name": "Attach to server",
-      "app": "Skin's World",
+            "app": "Skin's World",
 			"address": "localhost",
 			"port": 3443,
 			"outFiles": [
