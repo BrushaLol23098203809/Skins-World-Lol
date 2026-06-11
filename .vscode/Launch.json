@@ -1,0 +1,19 @@
+
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://dandys-world-robloxhorror.fandom.com/wiki/Dandy's_World_(Game)
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "attach",
+			"name": "Attach to server",
+      "app": "Skin's World",
+			"address": "localhost",
+			"port": 3443,
+			"outFiles": [
+				"${workspaceFolder}/**/*.js"
+			]
+		}
+	]
+}
