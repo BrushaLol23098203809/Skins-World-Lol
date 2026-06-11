@@ -1,6 +1,6 @@
 # Skin's World.lol
 This is Skin's World Roblox Game and Made by me
-In the world of gaming, a "skin" is a cosmetic modification that alters the visual appearance of a character, weapon, or item. A "skin world" in this context usually refers to a marketplace, modding community, or in-game universe where players collect, trade, or design virtual outfits. Learn more about the concept of virtual skins on https://dandys-world-robloxhorror.fandom.com/
+In the world of gaming, a Skin's World is a cosmetic modification that alters the visual appearance of a character, weapon, or item. A "skin world" in this context usually refers to a marketplace, modding community, or in-game universe where players collect, trade, or design virtual outfits. Learn more about the concept of virtual skins on https://dandys-world-robloxhorror.fandom.com/
 # What is Skin's World?
 There isn't a widely known game or series with that exact name. You might mean:
 
