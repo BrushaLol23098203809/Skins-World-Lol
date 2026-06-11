@@ -7,7 +7,7 @@
 		{
 			"type": "node",
 			"request": "attach",
-			"name": "Attach to server",
+			"name": "Attach to Game",
             "app": "Skin's World",
 			"address": "localhost",
 			"port": 3443,
